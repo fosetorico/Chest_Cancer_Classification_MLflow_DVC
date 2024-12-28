@@ -172,7 +172,7 @@ cython_debug/
 
 cancerenv/
 artifacts/
-.dvcignore
-dvc.lock
+# .dvcignore
+# dvc.lock
 scores.json
-.dvc/
+# .dvc/
