@@ -1,1 +1,1 @@
-# End-to-End Chest Cancer Classification Leveraging the Powers of MLflow $ DVC
+# End-to-End Chest Cancer Classification Leveraging the Powers of MLflow & DVC
