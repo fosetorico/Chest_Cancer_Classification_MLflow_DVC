@@ -18,4 +18,4 @@ scipy
 Flask
 Flask-Cors
 
--e .
+# -e .
